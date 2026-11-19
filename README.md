@@ -1,11 +1,10 @@
 # news-image-20261119
 
-![make.fun competition](https://make.fun/badge/competition/news-image-20261119.svg?owner=skedgeloopclients&repo=news-image-20261119)
-![make.fun owner](https://make.fun/badge/owner/skedgeloopclients.svg?competition=news-image-20261119&repo=news-image-20261119)
-![make.fun repo](https://make.fun/badge/repo/news-image-20261119.svg?owner=skedgeloopclients&competition=news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/skedgeloopclients/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/skedgeloopclients/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Bounty: https://make.fun/bounty/news-image-20261119
-Competition: https://make.fun/competition/news-image-20261119
 
 ## Description
 
